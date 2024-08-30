@@ -1,4 +1,4 @@
-# Geo-Parsing-Geo-Visualization-of-RTC-Locations-from-Print-Media-for-Emergency-Response-and-Planning 
+# Geoparsing and Analysis of Road Traffic Crash Incidents for Data-Driven Emergency Response Planning
 
 ## Authors
   **Patricia Ojonoka Idakwo**
