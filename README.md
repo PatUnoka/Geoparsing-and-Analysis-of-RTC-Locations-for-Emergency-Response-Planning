@@ -1,30 +1,5 @@
 # Geospatial and Contextual Information Extraction from Road Traffic Crash Incident Narratives
 
-## Authors
-  **Patricia Ojonoka Idakwo**
-  School of Computing & Information Technology
-  African University of Science and Technology
-  Abuja, Nigeria
-  pojonoka@aust.edu.ng
- 
-  **Olubayo Adekanmbi**
-  Data Science Nigeria
-  AI Hub, 33 Queens Street, Alagomeji
-  Yaba, Lagos, Nigeria 
-  olubayo@datasciencenigeria.ai 
-
-  **Anthony Soronnadi**
-  Data Science Nigeria
-  AI Hub, 33 Queens Street, Alagomeji
-  Yaba, Lagos, Nigeria 
-  anthony@datasciencenigeria.ai
- 
-  **Amos David**
-  School of Computing & Information Technology 
-  African University of Science and Technology 
-  Abuja, Nigeria 
-  adavid@aust.edu.ng
-  
 This repository holds the training and test datasets as well as the code for three custom named entity recognition (NER) models used to curate a Nigerian road traffic crash dataset as part of my PhD research work. The models are publicly available on Huggingface using the following links below. The Model card for each contains details of the models as well as usage directions:
 RTC-NER: https://huggingface.co/pidakwo/rtc-ner
 RTC-NER-Extended: https://huggingface.co/pidakwo/rtc-ner-extended
